@@ -1,4 +1,4 @@
-/* eslint-disable no-console, quotes */
+/* eslint-disable linebreak-style, no-console, quotes */
 // TODO: write code here
 
 // comment this to pass build
